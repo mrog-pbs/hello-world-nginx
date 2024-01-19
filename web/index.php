@@ -1,2 +1,2 @@
 <?php
-echo "Howdy!";
+echo "Howdy! 🚀";
